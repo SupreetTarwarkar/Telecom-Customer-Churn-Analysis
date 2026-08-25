@@ -113,7 +113,7 @@ The analysis uses the following source file:
 
 - `telecom_churn_data.csv`
 
-The **Dataset** folder is included for project organization. The raw CSV should be added only when the source file is available for redistribution.
+The `Dataset` folder contains the source CSV used for this analysis.
 
 ---
 
