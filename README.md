@@ -103,21 +103,7 @@ The analysis covers:
 
 # Analysis Visuals
 
-### Overall Churn Rate
-
-![Churn Rate](Images/1.%20Churn%20Rate.png)
-
-### Churn by Contract Type
-
-![Churn by Contract](Images/2.%20Churn%20by%20Contract.png)
-
-### Churn by Internet Service
-
-![Churn by Internet Service](Images/3.%20Churn%20by%20Internet%20Service.png)
-
-### Monthly Charges vs Churn
-
-![Monthly Charges vs Churn](Images/4.%20Monthly%20Charges%20vs%20Churn.png)
+The project notebook generates the key analysis visuals directly using **Matplotlib** and **Seaborn**, including churn distribution, contract analysis, internet-service analysis, payment-method analysis, monthly-charge comparison, dependents, and tech-support analysis.
 
 ---
 
@@ -127,19 +113,19 @@ The analysis uses the following source file:
 
 - `telecom_churn_data.csv`
 
-The **Dataset** folder is reserved for the source dataset. The raw CSV should be placed there when the source file is available for redistribution.
+The **Dataset** folder is included for project organization. The raw CSV should be added only when the source file is available for redistribution.
 
 ---
 
 # Python Notebook
 
-The complete exploratory analysis notebook is included in this repository:
+The GitHub-ready exploratory analysis notebook is included in this repository:
 
 - `Notebook/Telecom_Customer_Churn.ipynb`
 
-The analysis was developed in **Google Colab** and includes data cleaning, exploratory analysis, visualizations, written observations, and retention-focused insights.
+The notebook includes data cleaning, exploratory analysis, visualizations, written observations, and retention-focused insights.
 
-### Google Colab
+### Original Google Colab Analysis
 
 https://colab.research.google.com/drive/1FkYdMHO0BLvu9o0FK0ycKMVkmaWd65c4?authuser=1
 
