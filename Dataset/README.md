@@ -1,6 +1,6 @@
 # Dataset
 
-This project uses `telecom_churn_data.csv`, containing **7,043 customer records** and **21 columns**.
+This project uses [`telecom_churn_data.csv`](telecom_churn_data.csv), containing **7,043 customer records** and **21 columns**.
 
 ## Dataset Dimensions
 
