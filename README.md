@@ -1,13 +1,14 @@
-<div align="center"><h1>Telecom Customer Churn Analysis</h1></div>
+# Telecom Customer Churn Analysis
 
-<div align="center"><img src="https://raw.githubusercontent.com/SupreetTarwarkar/SupreetTarwarkar/main/Profile-Assets/section-line.svg" width="82%" alt="section divider"/></div>
-<div align="center"><b>SHORT DESCRIPTION / PURPOSE</b></div>
+## Short Description / Purpose
 
 An exploratory **Telecom Customer Churn Analysis** project built using **Python, Pandas, NumPy, Matplotlib, and Seaborn** to analyze **7,043 telecom customers** across demographic, service, billing, contract, and account attributes.
 
 The analysis identifies customer churn patterns and highlights customer segments that may require targeted retention strategies.
 
-<div align="center"><h1>Tech Stack</h1></div>
+---
+
+# Tech Stack
 
 The analysis was built using the following tools and technologies:
 
@@ -18,7 +19,9 @@ The analysis was built using the following tools and technologies:
 - **Matplotlib** - Data visualization
 - **Seaborn** - Statistical data visualization
 
-<div align="center"><h1>Data Source</h1></div>
+---
+
+# Data Source
 
 The project uses a telecom customer churn dataset containing:
 
@@ -34,13 +37,17 @@ The project uses a telecom customer churn dataset containing:
 - Monthly and total charges
 - Customer churn status
 
-<div align="center"><h1>Business Problem</h1></div>
+---
+
+# Business Problem
 
 Customer churn directly affects recurring revenue and customer lifetime value in the telecom industry.
 
 Understanding which customer groups are more likely to leave can help businesses identify areas where customer experience and retention strategies may need improvement.
 
-<div align="center"><h1>Goal of the Analysis</h1></div>
+---
+
+# Goal of the Analysis
 
 - Measure the overall customer churn level
 - Analyze customer demographics, services, billing, and account characteristics
@@ -49,7 +56,9 @@ Understanding which customer groups are more likely to leave can help businesses
 - Compare monthly charges between churned and retained customers
 - Identify customer segments that may require focused retention efforts
 
-<div align="center"><h1>Data Cleaning & Preparation</h1></div>
+---
+
+# Data Cleaning & Preparation
 
 The notebook includes the following data-quality checks and preparation steps:
 
@@ -60,7 +69,9 @@ The notebook includes the following data-quality checks and preparation steps:
 - Replaced missing Total Charges values with the **median** because the distribution was right-skewed
 - Verified the cleaned dataset before exploratory analysis
 
-<div align="center"><h1>Exploratory Data Analysis</h1></div>
+---
+
+# Exploratory Data Analysis
 
 The analysis covers:
 
@@ -78,7 +89,9 @@ The analysis covers:
 - Churn by tech support
 - Internet service, Monthly Charges, and churn interaction
 
-<div align="center"><h1>Key Findings & Business Insights</h1></div>
+---
+
+# Key Findings & Business Insights
 
 - **26.5% of customers churned**, while **73.5% remained**, indicating a meaningful customer-retention challenge.
 - **Month-to-Month customers show the strongest churn concentration** compared with customers on longer contracts.
@@ -88,37 +101,43 @@ The analysis covers:
 - Customers without **Tech Support** show higher churn levels than customers with Tech Support.
 - These patterns highlight potential opportunities around contract conversion, pricing, customer support, service experience, and retention initiatives.
 
-<div align="center"><h1>Analysis Visuals</h1></div>
+---
 
-<div align="center"><img src="https://raw.githubusercontent.com/SupreetTarwarkar/SupreetTarwarkar/main/Profile-Assets/section-line.svg" width="82%" alt="section divider"/></div>
-<div align="center"><b>1. OVERALL CHURN DISTRIBUTION</b></div>
+# Analysis Visuals
+
+## 1. Overall Churn Distribution
 
 ![Overall Churn Distribution](Images/1.%20Churn%20Rate.png)
 
 The majority of customers remained with the company, while approximately **26.5% of customers churned**.
 
-<div align="center"><img src="https://raw.githubusercontent.com/SupreetTarwarkar/SupreetTarwarkar/main/Profile-Assets/section-line.svg" width="82%" alt="section divider"/></div>
-<div align="center"><b>2. CONTRACT TYPE DISTRIBUTION</b></div>
+---
+
+## 2. Contract Type Distribution
 
 ![Contract Type Distribution](Images/2.%20Churn%20by%20Contract.png)
 
 Month-to-Month contracts represent the largest customer group, while One-Year and Two-Year contracts have comparatively fewer customers.
 
-<div align="center"><img src="https://raw.githubusercontent.com/SupreetTarwarkar/SupreetTarwarkar/main/Profile-Assets/section-line.svg" width="82%" alt="section divider"/></div>
-<div align="center"><b>3. INTERNET SERVICE DISTRIBUTION</b></div>
+---
+
+## 3. Internet Service Distribution
 
 ![Internet Service Distribution](Images/3.%20Churn%20by%20Internet%20Service.png)
 
 Fiber Optic is the most commonly used internet service, followed by DSL, while a smaller group of customers does not use internet service.
 
-<div align="center"><img src="https://raw.githubusercontent.com/SupreetTarwarkar/SupreetTarwarkar/main/Profile-Assets/section-line.svg" width="82%" alt="section divider"/></div>
-<div align="center"><b>4. MONTHLY CHARGES VS CHURN</b></div>
+---
+
+## 4. Monthly Charges vs Churn
 
 ![Monthly Charges vs Churn](Images/4.%20Monthly%20Charges%20vs%20Churn.png)
 
 Customers who churned generally show higher Monthly Charges compared with customers who remained.
 
-<div align="center"><h1>Dataset</h1></div>
+---
+
+# Dataset
 
 The complete source dataset used for the analysis is available here:
 
@@ -126,7 +145,9 @@ The complete source dataset used for the analysis is available here:
 
 The `Dataset` folder also contains additional information about the dataset structure and attributes.
 
-<div align="center"><h1>Python Notebook</h1></div>
+---
+
+# Python Notebook
 
 The complete exploratory data analysis notebook is available here:
 
@@ -142,13 +163,17 @@ The notebook includes:
 - Key findings
 - Retention-focused insights
 
-<div align="center"><h1>Google Colab</h1></div>
+---
+
+# Google Colab
 
 The original analysis was developed using Google Colab:
 
 [Open Telecom Customer Churn Analysis in Google Colab](https://colab.research.google.com/drive/1FkYdMHO0BLvu9o0FK0ycKMVkmaWd65c4?authuser=1)
 
-<div align="center"><h1>Author</h1></div>
+---
+
+# Author
 
 **Supreet Tarwarkar**
 
