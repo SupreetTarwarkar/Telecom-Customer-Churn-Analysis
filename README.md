@@ -2,7 +2,6 @@
 
 <div align="center"><img src="https://raw.githubusercontent.com/SupreetTarwarkar/SupreetTarwarkar/main/Profile-Assets/section-line.svg" width="82%" alt="section divider"/></div>
 <div align="center"><b>SHORT DESCRIPTION / PURPOSE</b></div>
-<div align="center"><img src="https://raw.githubusercontent.com/SupreetTarwarkar/SupreetTarwarkar/main/Profile-Assets/skill-line-white.svg" width="62%" alt=""/></div>
 
 An exploratory **Telecom Customer Churn Analysis** project built using **Python, Pandas, NumPy, Matplotlib, and Seaborn** to analyze **7,043 telecom customers** across demographic, service, billing, contract, and account attributes.
 
@@ -93,7 +92,6 @@ The analysis covers:
 
 <div align="center"><img src="https://raw.githubusercontent.com/SupreetTarwarkar/SupreetTarwarkar/main/Profile-Assets/section-line.svg" width="82%" alt="section divider"/></div>
 <div align="center"><b>1. OVERALL CHURN DISTRIBUTION</b></div>
-<div align="center"><img src="https://raw.githubusercontent.com/SupreetTarwarkar/SupreetTarwarkar/main/Profile-Assets/skill-line-white.svg" width="62%" alt=""/></div>
 
 ![Overall Churn Distribution](Images/1.%20Churn%20Rate.png)
 
@@ -101,7 +99,6 @@ The majority of customers remained with the company, while approximately **26.5%
 
 <div align="center"><img src="https://raw.githubusercontent.com/SupreetTarwarkar/SupreetTarwarkar/main/Profile-Assets/section-line.svg" width="82%" alt="section divider"/></div>
 <div align="center"><b>2. CONTRACT TYPE DISTRIBUTION</b></div>
-<div align="center"><img src="https://raw.githubusercontent.com/SupreetTarwarkar/SupreetTarwarkar/main/Profile-Assets/skill-line-white.svg" width="62%" alt=""/></div>
 
 ![Contract Type Distribution](Images/2.%20Churn%20by%20Contract.png)
 
@@ -109,7 +106,6 @@ Month-to-Month contracts represent the largest customer group, while One-Year an
 
 <div align="center"><img src="https://raw.githubusercontent.com/SupreetTarwarkar/SupreetTarwarkar/main/Profile-Assets/section-line.svg" width="82%" alt="section divider"/></div>
 <div align="center"><b>3. INTERNET SERVICE DISTRIBUTION</b></div>
-<div align="center"><img src="https://raw.githubusercontent.com/SupreetTarwarkar/SupreetTarwarkar/main/Profile-Assets/skill-line-white.svg" width="62%" alt=""/></div>
 
 ![Internet Service Distribution](Images/3.%20Churn%20by%20Internet%20Service.png)
 
@@ -117,7 +113,6 @@ Fiber Optic is the most commonly used internet service, followed by DSL, while a
 
 <div align="center"><img src="https://raw.githubusercontent.com/SupreetTarwarkar/SupreetTarwarkar/main/Profile-Assets/section-line.svg" width="82%" alt="section divider"/></div>
 <div align="center"><b>4. MONTHLY CHARGES VS CHURN</b></div>
-<div align="center"><img src="https://raw.githubusercontent.com/SupreetTarwarkar/SupreetTarwarkar/main/Profile-Assets/skill-line-white.svg" width="62%" alt=""/></div>
 
 ![Monthly Charges vs Churn](Images/4.%20Monthly%20Charges%20vs%20Churn.png)
 
