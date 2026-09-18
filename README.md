@@ -1,6 +1,6 @@
 # Telecom Customer Churn Analysis
 
-## Short Description / Purpose
+### Short Description / Purpose
 
 An exploratory **Telecom Customer Churn Analysis** project built using **Python, Pandas, NumPy, Matplotlib, and Seaborn** to analyze **7,043 telecom customers** across demographic, service, billing, contract, and account attributes.
 
@@ -8,7 +8,7 @@ The analysis identifies customer churn patterns and highlights customer segments
 
 ---
 
-# Tech Stack
+## Tech Stack
 
 The analysis was built using the following tools and technologies:
 
@@ -21,7 +21,7 @@ The analysis was built using the following tools and technologies:
 
 ---
 
-# Data Source
+## Data Source
 
 The project uses a telecom customer churn dataset containing:
 
@@ -39,7 +39,7 @@ The project uses a telecom customer churn dataset containing:
 
 ---
 
-# Business Problem
+## Business Problem
 
 Customer churn directly affects recurring revenue and customer lifetime value in the telecom industry.
 
@@ -47,7 +47,7 @@ Understanding which customer groups are more likely to leave can help businesses
 
 ---
 
-# Goal of the Analysis
+## Goal of the Analysis
 
 - Measure the overall customer churn level
 - Analyze customer demographics, services, billing, and account characteristics
@@ -58,7 +58,7 @@ Understanding which customer groups are more likely to leave can help businesses
 
 ---
 
-# Data Cleaning & Preparation
+## Data Cleaning & Preparation
 
 The notebook includes the following data-quality checks and preparation steps:
 
@@ -71,7 +71,7 @@ The notebook includes the following data-quality checks and preparation steps:
 
 ---
 
-# Exploratory Data Analysis
+## Exploratory Data Analysis
 
 The analysis covers:
 
@@ -91,7 +91,7 @@ The analysis covers:
 
 ---
 
-# Key Findings & Business Insights
+## Key Findings & Business Insights
 
 - **26.5% of customers churned**, while **73.5% remained**, indicating a meaningful customer-retention challenge.
 - **Month-to-Month customers show the strongest churn concentration** compared with customers on longer contracts.
@@ -103,9 +103,9 @@ The analysis covers:
 
 ---
 
-# Analysis Visuals
+## Analysis Visuals
 
-## 1. Overall Churn Distribution
+### 1. Overall Churn Distribution
 
 ![Overall Churn Distribution](Images/1.%20Churn%20Rate.png)
 
@@ -113,7 +113,7 @@ The majority of customers remained with the company, while approximately **26.5%
 
 ---
 
-## 2. Contract Type Distribution
+### 2. Contract Type Distribution
 
 ![Contract Type Distribution](Images/2.%20Churn%20by%20Contract.png)
 
@@ -121,7 +121,7 @@ Month-to-Month contracts represent the largest customer group, while One-Year an
 
 ---
 
-## 3. Internet Service Distribution
+### 3. Internet Service Distribution
 
 ![Internet Service Distribution](Images/3.%20Churn%20by%20Internet%20Service.png)
 
@@ -129,7 +129,7 @@ Fiber Optic is the most commonly used internet service, followed by DSL, while a
 
 ---
 
-## 4. Monthly Charges vs Churn
+### 4. Monthly Charges vs Churn
 
 ![Monthly Charges vs Churn](Images/4.%20Monthly%20Charges%20vs%20Churn.png)
 
@@ -137,7 +137,7 @@ Customers who churned generally show higher Monthly Charges compared with custom
 
 ---
 
-# Dataset
+## Dataset
 
 The complete source dataset used for the analysis is available here:
 
@@ -147,7 +147,7 @@ The `Dataset` folder also contains additional information about the dataset stru
 
 ---
 
-# Python Notebook
+## Python Notebook
 
 The complete exploratory data analysis notebook is available here:
 
@@ -165,7 +165,7 @@ The notebook includes:
 
 ---
 
-# Google Colab
+## Google Colab
 
 The original analysis was developed using Google Colab:
 
@@ -173,7 +173,7 @@ The original analysis was developed using Google Colab:
 
 ---
 
-# Author
+## Author
 
 **Supreet Tarwarkar**
 
